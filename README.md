@@ -1,6 +1,6 @@
 ### Welcome!
 [![SpiderDerp's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderderp&theme=algolia&show_icons=true)](https://github.com/spiderderp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderderp&langs_count=8&theme=algolia)](https://github.com/spiderderp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderderp&layout=compact&theme=algolia)](https://github.com/spiderderp/github-readme-stats)
 <!--
 **SpiderDerp/SpiderDerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
