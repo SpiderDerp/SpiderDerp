@@ -1,5 +1,5 @@
-### Hi there 👋
-[![SpiderDerp's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderderp)](https://github.com/spiderderp/github-readme-stats)
+### 😎
+[![SpiderDerp's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderderp&theme=algolia&show_icons=true)](https://github.com/spiderderp/github-readme-stats)
 <!--
 **SpiderDerp/SpiderDerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
